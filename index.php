@@ -35,7 +35,7 @@
 
 <ul class="navbar-nav">
 <li class="nav-item">
-<a class="nav-link smooth active" data-scroll-nav="0" href="#">Home <span class="sr-only">(current)</span></a>
+<a class="nav-link smooth active" data-scroll-nav="0" href="#">Home php<span class="sr-only">(current)</span></a>
 </li>
     <li class="nav-item">
 <a class="nav-link smooth" data-scroll-nav="1" href="#">Services</a>
